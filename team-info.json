@@ -1,0 +1,33 @@
+{
+    "team_name": "Advanced caifiers",
+    "students": [
+        {
+            "student_id": "k0885317",
+            "first_name": "Daniel",
+            "last_name": "Buchberger",
+            "email": "daniel.mario.buchberger@gmail.com",
+            "github_user": "dmb13680"
+        },
+        {
+            "student_id": "k12438958",
+            "first_name": "Shengmeng",
+            "last_name": "Hou",
+            "email": "safra@foxmail.com",
+            "github_user": "SummerFluorescence"
+        },
+        {
+            "student_id": "k12541583",
+            "first_name": "Siria",
+            "last_name": "Sadeddin",
+            "email": "siriasadeddin@gmail.com",
+            "github_user": "siriasadeddin"
+        },
+        {
+            "student_id": "k12039939",
+            "first_name": "Theresa Ugochukwu",
+            "last_name": "Ukwamedua-Gban",
+            "email": "great.tess@yahoo.com",
+            "github_user": "Thes836"
+        }
+    ]
+}
