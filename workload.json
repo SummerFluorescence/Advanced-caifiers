@@ -1,0 +1,28 @@
+{
+    "team_name": "Team Name",
+    "students": [
+        {
+            "first_name": "Shengmeng",
+            "last_name": "Hou",
+            "workload": 0.25
+        },
+        
+        {
+            "first_name": "Daniel",
+            "last_name": "Buchberger",
+            "workload": 0.25
+        },
+
+        {
+            "first_name": "Siria",
+            "last_name": "Sadeddin",
+            "workload": 0.25
+        },
+
+        {
+            "first_name": "Theresa Ugochukwu",
+            "last_name": "Ukwamedua-Gban",
+            "workload": 0.25
+        }
+    ]
+} 
